@@ -20,5 +20,5 @@ for tc in range(T):
 
         if(len(temp) != 9 or len(temp_1) != 9 or len(temp_2) != 9):
             answer = 0
-            break
+            break 
     print("#"+str(tc+1), answer)
