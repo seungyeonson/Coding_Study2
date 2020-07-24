@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efbe23a3-3a8f-4e45-80a9-9adb0c5e5e41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5432_D4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="efbe23a3-3a8f-4e45-80a9-9adb0c5e5e41" name="Default Changelist" comment="200723finish" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +84,14 @@
       <option name="presentableId" value="Default" />
       <updated>1595476734957</updated>
     </task>
+    <task id="LOCAL-00001" summary="200723finish">
+      <created>1595521155295</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595521155295</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,22 +106,30 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="200723finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="200723finish" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="936" height="278" key="GridCell.Tab.0.bottom" timestamp="1595521102335">
+    <state width="936" height="278" key="GridCell.Tab.0.bottom" timestamp="1595521171388">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595521102335" />
-    <state width="936" height="278" key="GridCell.Tab.0.center" timestamp="1595521102335">
+    <state width="936" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595521171388" />
+    <state width="936" height="278" key="GridCell.Tab.0.center" timestamp="1595521171388">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595521102335" />
-    <state width="936" height="278" key="GridCell.Tab.0.left" timestamp="1595521102335">
+    <state width="936" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595521171388" />
+    <state width="936" height="278" key="GridCell.Tab.0.left" timestamp="1595521171388">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595521102335" />
-    <state width="936" height="278" key="GridCell.Tab.0.right" timestamp="1595521102335">
+    <state width="936" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595521171388" />
+    <state width="936" height="278" key="GridCell.Tab.0.right" timestamp="1595521171388">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595521102335" />
+    <state width="936" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595521171388" />
+    <state x="79" y="253" key="Vcs.Push.Dialog.v2" timestamp="1595521163007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="79" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595521163007" />
   </component>
 </project>
