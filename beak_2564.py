@@ -1,3 +1,4 @@
+#경비원
 W, H = map(int, input().split())
 N = int(input())
 arr = []
