@@ -32,7 +32,7 @@ public class baek_2589 {
 				if (map[i][j] == 'L') {
 					count = 0;
 					bfs(i, j);
-					if (answer < count) {
+					if (answer < count) {   
 						answer = count;
 					}
 				}
